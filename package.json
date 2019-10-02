@@ -1,0 +1,25 @@
+{
+  "name": "mqtt-on-heroku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jan-kenneth247/mqtt-on-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jan-kenneth247/mqtt-on-heroku/issues"
+  },
+  "homepage": "https://github.com/Jan-kenneth247/mqtt-on-heroku#readme",
+  "engines": {
+    "node": "10.x"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
